@@ -40,3 +40,12 @@ ensuring privacy while preserving analytical accuracy.
 All personal, financial, and clinic-identifiable information has been anonymized
 before publishing. This project is intended for learning and portfolio demonstration
 purposes only.
+
+## Power BI Dashboard
+An interactive Power BI dashboard was built using the MySQL data model from this project.
+The dashboard uses anonymized dummy data and focuses on revenue, collections,
+overdue invoices, and ageing analysis.
+
+🔗 Power BI Dashboard Repository:
+https://github.com/pratikbhandekar0619-design/clinic-sales-powerbi-dashboard
+
